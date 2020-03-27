@@ -41,4 +41,5 @@ class Song
       artist_histo[artist] += 1 
     end 
     artist_histo
+  end 
 end 
