@@ -33,4 +33,5 @@ class Song
       genre_histo[genre] += 1 
     end 
     genre_histo
+  end 
 end 
